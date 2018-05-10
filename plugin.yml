@@ -1,7 +1,7 @@
 name: CloudSystem
 version: 1.0
 author: PrinxIsLeqit
-api: 3.0.0-ALPHA10
+api: 3.0.0-ALPHA12
 main: PrinxIsLeqit\CloudSystem\CloudSystem
 description: Simple CloudSystem
 commands:
